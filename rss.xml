@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mina svenska texter och föreläsningar ]]></title>
         <description><![CDATA[Mina svenska texter och föreläsningar ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kazarnowicz-pa-svenska/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 20:13:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 20:14:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kazarnowicz-pa-svenska/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Du är aldrig bättre än din senaste kundkontakt"]]></title>
+            <description><![CDATA[<article><h1>"Du är aldrig bättre än din senaste kundkontakt"</h1><p>Michael Kazarnowicz har testat och utvärderat kroppsnära teknik sedan 2010 som ett led i att förstå hur landskapet för digital kommunikation kommer att ligga när dessa blir mainstream. Han föreläser om digital kommunikation och marknadsföring på Berghs, jobbar med Hyper Island och är digital strateg på digitala relationsbyrån Twintip Insights AB.</p><img src="http://internetworld.idg.se/polopoly_fs/1.628476.1432711102!topTeaserImage/imageTypeSelector/localImage/105962310.jpg"></article>]]></description>
+            <link>http://internetworld.idg.se/2.1006/1.628476/du-ar-aldrig-battre-an-din-senaste-kundkontakt</link>
+            <guid isPermaLink="false">69f307a9-6da4-4990-b318-b3c8b1548c50</guid>
+            <pubDate>Thu, 03 Dec 2015 20:13:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Innovationschefen avslöjar vad som väntar runt hörnet]]></title>
             <description><![CDATA[<article><h1>Innovationschefen avslöjar vad som väntar runt hörnet</h1><p>Michael Kazarnowicz är en kille som lever internet på alla sätt och vis. Han föreläser, håller i kurser, är en Gaymer och bland annat intresserad av smarta hem, augmented reality och internet of things. Vi frågade Michael om hans vision för framtiden. Vad är det som dyker upp runt hörnet?</p><img src="http://www.dagensanalys.se/wp-content/uploads/2015/05/micke-by-fredrik-wass-630x346.jpg"></article>]]></description>
