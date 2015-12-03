@@ -1,6 +1,6 @@
 name: Kazarnowicz på svenska
 favicon: null
-layout_spectrum: 0.04436
+layout_spectrum: 0.27725
 typography_spectrum: 0.50466
 title: 'Mina svenska texter och föreläsningar '
 cta:
@@ -17,12 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#006aa7'
-    - '#fecc00'
-    - '#eec50a'
-    - '#debf14'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
+    - '#eaeae8'
+    - '#434542'
+    - '#ad9579'
+    - '#21221c'
+    - '#d54c5a'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
