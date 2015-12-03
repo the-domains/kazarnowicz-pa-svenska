@@ -1,7 +1,7 @@
 name: Kazarnowicz på svenska
 favicon: null
-layout_spectrum: 0.4887071729172021
-typography_spectrum: 0.03280201740562916
+layout_spectrum: 0.04436
+typography_spectrum: 0.50466
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.328733543632552
-  lightness: 0.7113975347019732
-  saturation: 0.4173088052775711
-  rhythmicContrast: 0.4730797887314111
+    - '#006aa7'
+    - '#fecc00'
+    - '#eec50a'
+    - '#debf14'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
