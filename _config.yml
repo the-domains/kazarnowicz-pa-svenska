@@ -1,6 +1,6 @@
 name: Kazarnowicz på svenska
 favicon: null
-layout_spectrum: 0.9988
+layout_spectrum: 0.47627
 typography_spectrum: 0.50466
 title: 'Som min urklippsbok, fast på nätet'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#21221c'
     - '#d54c5a'
   brandStrength: 0.3125
-  lightness: 0.3125
+  lightness: 0.625
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
